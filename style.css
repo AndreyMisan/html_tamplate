@@ -50,18 +50,19 @@ header ul li a {
     border-radius: 15px;
 }
 
-.btm,
+.btn,
 .active,
 header ul a:hover {
     background: #76c38f;
     border-radius: 15px;
     padding: 10px 20px;
     color: #fff;
+    transition: 0.5s;
 
 }
 
 .btn:hover {
-    background: #76c38f;
+    background: #61866d;
 }
 
 
